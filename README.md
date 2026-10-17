@@ -14,6 +14,12 @@
 
 ---
 
+## 📊 GitHub Contribution Graph
+
+![GitHub Contribution Graph](https://github.com/snehalkhater)
+
+---
+
 ## 🛠️ Skills
 
 - HTML
