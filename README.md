@@ -14,9 +14,10 @@
 
 ---
 
+
 ## 📊 GitHub Contribution Graph
 
-![GitHub Contribution Graph](https://github.com/snehalkhater)
+![GitHub Contribution Graph](https://ghchart.rshah.org/snehalkhater)
 
 ---
 
