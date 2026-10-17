@@ -15,9 +15,10 @@
 ---
 
 
-## 📊 GitHub Contribution Graph
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/snehalkhater)
+## 🐍 GitHub Contribution Snake
+
+![GitHub Snake Animation](https://raw.githubusercontent.com/snehalkhater/snehalkhater/output/github-snake.svg)
 
 ---
 
