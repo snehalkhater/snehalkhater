@@ -13,12 +13,9 @@
 - 📍 Karjat, Maharashtra, India
 
 ---
-
-
-
-## 🐍 GitHub Contribution Snake
-
-![GitHub Snake Animation](https://raw.githubusercontent.com/snehalkhater/snehalkhater/output/github-snake.svg)
+## 🐍 Contribution Snake 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ujjwala1608&theme=github-compact&hide_border=true)
+![Contribution Graph](./github-user-contribution.svg)
 
 ---
 
