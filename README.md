@@ -13,10 +13,10 @@
 - 📍 Karjat, Maharashtra, India
 
 ---
-## 🐍 Contribution Snake 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ujjwala1608&theme=github-compact&hide_border=true)
-![Contribution Graph](./github-user-contribution.svg)
 
+## 🐍 Contribution Snake 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=snehalkhater&theme=github-compact&hide_border=true)
+![Contribution Graph](./github-user-contribution.svg)
 ---
 
 ## 🛠️ Skills
