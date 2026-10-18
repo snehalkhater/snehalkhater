@@ -1,6 +1,12 @@
-# 👋 Hi, I'm Snehal Khater
+# 👋 Hi, I'm Snehal Khater!
 
-### 💻 Front-End Developer | MERN Stack Learner
+### 💻 Aspiring Full-Stack Web Developer 
+
+Welcome to my GitHub profile! ✨
+
+I'm Snehal Khater, a passionate web developer who loves learning new technologies, creating projects, and turning ideas into reality through code.
+
+🎓 I have completed my **Bachelor of Computer Applications (BCA)** and I'm currently pursuing **MCA (1st Year)**, working towards becoming a Full-Stack MERN Developer.
 
 ---
 
@@ -45,12 +51,6 @@ AI-powered family financial management platform for:
 ### 2. TinyTour
 A MERN stack travel application for exploring and managing tours.
 
-### 3. StyleHub
-A modern fashion and shopping website.
-
-### 4. MoveZone
-A React-based fitness website.
-
 ---
 
 ## 🎨 My Interests
@@ -61,15 +61,14 @@ A React-based fitness website.
 - 🎬 Movies
 
 ---
-
-## 🌐 Connect With Me
-
-**GitHub:**  
-https://github.com/snehalkhater
-
-**Peerlist:**  
-https://peerlist.io/khaterssnehal
+## 📫 Connect With Me
+-  💻 **GitHub :** https://github.com/snehalkhater
+-  🌐 **Linkedin :** https://www.linkedin.com/in/snehal-khater-81797237a/
+-  💻 **Peerlist :** https://peerlist.io/khaterssnehal
 
 ---
+### 💖 My Developer Motto
 
-### ⭐ Thanks for visiting my profile!
+> "Dream it. Code it. Build it. Keep growing! 🚀"
+
+⭐ Thanks for visiting my profile! Let's learn, build, and grow together!
